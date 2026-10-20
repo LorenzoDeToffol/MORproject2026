@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+Pillow
+networkx
+sympy
+PyYAML
+requests
+tqdm
+vtk
+pypolydim
